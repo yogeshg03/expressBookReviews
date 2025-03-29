@@ -1,6 +1,7 @@
 let books = {
-      1: {"author": "Chinua Achebe","title": "Things Fall Apart", "reviews": {} },
-      2: {"author": "Hans Christian Andersen","title": "Fairy tales", "reviews": {} },
+      1: {"isbn": "9780140283334","author": "Chinua Achebe", "title": "Things Fall Apart", "reviews": {"review1": "An excellent book, a must-read for anyone interested in African literature.",
+      "review2": "A poignant and powerful novel about the effects of colonialism."} },
+      2: {"author": "Hans Christian Andersen","title": "Fairytales", "reviews": {} },
       3: {"author": "Dante Alighieri","title": "The Divine Comedy", "reviews": {} },
       4: {"author": "Unknown","title": "The Epic Of Gilgamesh", "reviews": {} },
       5: {"author": "Unknown","title": "The Book Of Job", "reviews": {} },
